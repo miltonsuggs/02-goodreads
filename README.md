@@ -23,9 +23,6 @@ This notebook consists of an exploratory data analysis of the variables presente
 
 Both univariate and bivariate analyses were performed to determine any correlating factors. 
 
-
-## OUTSTANDING OBSERVATIONS
-
 ## CONCLUSIONS & FUTURE WORK
 
 The Goodreads dataset has a lot of useful information for determining which factors may influence a book's rating and for general exploration of facts about a book.
